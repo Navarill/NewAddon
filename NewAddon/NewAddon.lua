@@ -6,7 +6,7 @@
 NewAddon = {
     name            = "NewAddon",           -- Matches folder and Manifest file names.
     -- version         = "1.0",                -- A nuisance to match to the Manifest.
-    author          = "Developer",
+    author          = "Navarill",
     color           = "DDFFEE",             -- Used in menu titles and so on.
     menuName        = "New Addon",          -- A UNIQUE identifier for menu object.
 }
